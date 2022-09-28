@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-     return "SOCKS 188.121.123.123:1888";
+     return "SOCKS 37.32.20.125:1888";
 }
