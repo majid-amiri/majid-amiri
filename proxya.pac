@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-      return "SOCKS 37.32.20.125:1888";
+      return "SOCKS magixam.ddns.net:1888";
 }
